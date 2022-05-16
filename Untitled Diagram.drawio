@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:42:06.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 Atom/19.0.0.40 Safari/537.36" version="18.0.6" etag="rgSuXTRwJa9xtbaX0yIA" type="github"><diagram id="dWZmLF0kx7EFLIDZ12RG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:49:43.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 Atom/19.0.0.40 Safari/537.36" etag="LtPzSASYF84zLAKRu9kS" version="18.0.6" type="github">
+  <diagram id="dWZmLF0kx7EFLIDZ12RG" name="Page-1">
+    <mxGraphModel dx="688" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ka979hHjzmyOj7SNoxdO-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial;&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:25089,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0,&amp;quot;16&amp;quot;:12,&amp;quot;17&amp;quot;:1}&quot; data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;2. Дана такая связка таблиц. Что в них не так, и почему? Что бы вы изменили и как?&amp;quot;}&quot;&gt;2. Дана такая связка таблиц. Что в них не так, и почему? Что бы вы изменили и как?&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="740" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
