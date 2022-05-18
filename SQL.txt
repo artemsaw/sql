@@ -61,3 +61,14 @@ amount = ALL (10, 12) не вернет ни одной записи, так к�
 amount <> ALL (10, 12) вернет все записи кроме тех,  в которыхamount равно 10 или 12
 
 Важно! Операторы ALL и ANY можно использовать только с вложенными запросами. В примерах в
+
+select id_an, name, id_cat_an, selling_price
+from analysis
+where 
+(id_cat_an = 1 and selling_price between 200 and 300)
+or
+(id_cat_an = 6 and selling_price < 1000)
+order by name desc
+
+SELECT email, coalesce (concat(first_name, ' ' , last_name), '') as full_name
+FROM public.users u;
